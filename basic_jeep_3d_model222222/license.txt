@@ -1,0 +1,11 @@
+Model Information:
+* title:	Basic Jeep 3D Model
+* source:	https://sketchfab.com/3d-models/basic-jeep-3d-model-6f70996886ac4d67908365fb10551aaf
+* author:	fthylmaz (https://sketchfab.com/fthylmaz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Basic Jeep 3D Model" (https://sketchfab.com/3d-models/basic-jeep-3d-model-6f70996886ac4d67908365fb10551aaf) by fthylmaz (https://sketchfab.com/fthylmaz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
