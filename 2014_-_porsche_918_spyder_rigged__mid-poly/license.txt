@@ -1,0 +1,11 @@
+Model Information:
+* title:	2014 - Porsche 918 Spyder (Rigged) | Mid-Poly
+* source:	https://sketchfab.com/3d-models/2014-porsche-918-spyder-rigged-mid-poly-1d34d42ce58c48f49146346ff67e492d
+* author:	Mahan Rasouli (https://sketchfab.com/Mahan-Rasouli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2014 - Porsche 918 Spyder (Rigged) | Mid-Poly" (https://sketchfab.com/3d-models/2014-porsche-918-spyder-rigged-mid-poly-1d34d42ce58c48f49146346ff67e492d) by Mahan Rasouli (https://sketchfab.com/Mahan-Rasouli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
