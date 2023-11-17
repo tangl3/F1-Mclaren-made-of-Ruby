@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shipwreck
+* source:	https://sketchfab.com/3d-models/shipwreck-8f905acf141c4f558baaa8cebda6c68e
+* author:	SimaoSantos (https://sketchfab.com/SimaoSantos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shipwreck" (https://sketchfab.com/3d-models/shipwreck-8f905acf141c4f558baaa8cebda6c68e) by SimaoSantos (https://sketchfab.com/SimaoSantos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
