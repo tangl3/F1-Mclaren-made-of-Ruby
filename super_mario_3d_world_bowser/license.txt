@@ -1,0 +1,11 @@
+Model Information:
+* title:	Super Mario 3D World Bowser
+* source:	https://sketchfab.com/3d-models/super-mario-3d-world-bowser-f51d7b2dd3da4ec1a4d88fa36f2b58b2
+* author:	akennedy007 (https://sketchfab.com/akennedy007)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Super Mario 3D World Bowser" (https://sketchfab.com/3d-models/super-mario-3d-world-bowser-f51d7b2dd3da4ec1a4d88fa36f2b58b2) by akennedy007 (https://sketchfab.com/akennedy007) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
