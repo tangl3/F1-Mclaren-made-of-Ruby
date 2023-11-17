@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wk06 Castle Catalano
+* source:	https://sketchfab.com/3d-models/wk06-castle-catalano-29e183d31e224dba911d144ce1be23a6
+* author:	tcatala (https://sketchfab.com/tcatala)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wk06 Castle Catalano" (https://sketchfab.com/3d-models/wk06-castle-catalano-29e183d31e224dba911d144ce1be23a6) by tcatala (https://sketchfab.com/tcatala) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
